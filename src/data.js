@@ -39,7 +39,7 @@ export const wrappedData = {
     hugs: {
       assumptions: { encountersPerWeek: 3, hoursPerEncounter: 3, hugsPerHourTogether: 3 },
       estimateApprox: 270,
-      estimateText: "Más de 270 de abrazos",
+      estimateText: "Más de 270 horas de abrazos",
       uiLine: "Cronómetro de abrazos (estimado): Más de {estimate} horas de abrazos",
     },
     foodDecision: { label: "¿Qué quieres comer?", text: "Veces que dijimos “no sé o tú decide”: más de 300" },
